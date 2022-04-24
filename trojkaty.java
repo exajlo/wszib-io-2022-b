@@ -37,5 +37,6 @@ class Trojkaty {
                 }
                 
                 jakiTrojkat(a, -b, -c);
+                
     }
 }
