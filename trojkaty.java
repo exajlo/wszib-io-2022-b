@@ -10,10 +10,10 @@ class Trojkaty {
      * @param {float} c - Długość trzeciego boku.
      */
     public static void jakiTrojkat(float a, float b, float c){
-        if (a == b && b == c && a == c) {
+        if (a == b && b == c && a == c ) {
              System.out.println("Trójkąt równoboczny"); 
          }
-        if (a == b || b == c || a == c) {
+        if (a == b || b == c || a == c ) {
             System.out.println("Trójkąt równoramienny");
         }
     }
